@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Anshika Singh</h1>
 <h3 align="center">A Student and a Flutter enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/X5NZ.gif">
+<img align="right" alt="Minion" width="400" src="https://i.gifer.com/X5NZ.gif">
 - 📫 How to reach me **anshikasingh1812@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
